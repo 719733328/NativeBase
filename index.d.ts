@@ -1,4 +1,4 @@
-//test
+//test2
 declare module "native-base" {
 	import * as React from "react";
 	import * as ReactNative from "react-native";
